@@ -1,1 +1,1 @@
-gitkraken_two
+gitkraken_class
